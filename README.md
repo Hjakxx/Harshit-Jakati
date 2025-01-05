@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Smart Railway booking system**
 
-- 🌱 I’m currently learning **Web Development, Data Structures and Algorithms and Working on Mini Projects**
+- 🌱 I’m currently learning **Web Development, Data Structures and Algorithms, AI-Tools and Working on Mini Projects**
 
 - 💬 Ask me about **Software Development, Machine Learning Algorithms or Innovative project management**
 
