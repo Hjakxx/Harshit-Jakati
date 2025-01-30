@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Jakati</h1>
 <h3 align="center">I'm a passionate CS-AI student from India</h3>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3ab83023-fc68-46ba-928a-cb3e8b60b7de
-" alt="Image">
-</p>
 
 
 - 🔭 I’m currently working on **Smart Railway booking system**
